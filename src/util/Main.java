@@ -22,6 +22,8 @@ public class Main {
 
 		// double subtracao = u.Subtracao(1, 2);
 		// u.Imprimir("O resultado da subtração é" +subtracao);
+		
+		u.Imprimir("Olá, professor");
 
 	}
 
